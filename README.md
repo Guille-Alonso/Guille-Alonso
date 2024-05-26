@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center" width="300">
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/45632575?v=4" />
+   <h3 align="center">¡Holaa 👋! Soy Guillermo Alonso Torino 💻</h3>
+</p>
 
-<!--
-**Guille-Alonso/Guille-Alonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+   Me apasiona la tecnología, el deporte y la ingeniería
+</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">Soy <strong>Desarrollador Full Stack MERN</strong> con 2 años de experiencia en el rubro.<br /><br /></p>
+<p align="center">
+   Trabajo como Ingeniero en Sistemas de Información en <strong>Municipalidad de San Miguel de Tucumán<strong><br />
+</p>
+
+<p align="center">
+  Docente de programación en Rolling Code School 🤓🤓<br />
+</p>
