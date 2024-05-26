@@ -14,5 +14,5 @@
 </p>
 
 <p align="center">
-  Docente de programación en Rolling Code School 🤓🤓<br />
+  Docente de programación en Rolling Code School 🤓<br />
 </p>
